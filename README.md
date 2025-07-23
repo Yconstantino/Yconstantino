@@ -1,7 +1,7 @@
 # 💻 Yan Miguel Constantino
-## `Desenvlovedor Front-end` ##
+## `Data Analyst` ##
 
-Sou um estudante de Ciência da Computação, apaixonado por tecnologia e desenvolvimento web. Busco minha primeira oportunidade de estágio para aplicar e expandir meus conhecimentos em HTML, CSS e JavaScript, além de aprofundar meu aprendizado em desenvolvimento full-stack, frameworks modernos e tecnologias emergentes. Quero contribuir com soluções inovadoras e aprimorar minha experiência na área de tecnologia. Tenho perfil proativo, gosto de desafios e valorizo o aprendizado contínuo e a colaboração em equipe.
+Sou um estudante de Ciência da Computação, apaixonado por tecnologia e Data Analyst . Busco minha primeira oportunidade de estágio para aplicar e expandir meus conhecimentos em HTML, CSS e JavaScript, Excel , SQL além de aprofundar meu aprendizado em desenvolvimento Data Scientist , frameworks modernos e tecnologias emergentes. Quero contribuir com soluções inovadoras e aprimorar minha experiência na área de tecnologia. Tenho perfil proativo, gosto de desafios e valorizo o aprendizado contínuo e a colaboração em equipe.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-986DFF?style=flat-square&logo=Linkedin&logoColor=fff&link=https://www.linkedin.com/in/iuricode/)](https://www.linkedin.com/in/yan-miguel-90180a342/) 
 [![Gmail Badge](https://img.shields.io/badge/-yancnstntn@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=fff&link=mailto:yancnstntn@gmail.com)](mailto:yancnstntn@gmail.com)
