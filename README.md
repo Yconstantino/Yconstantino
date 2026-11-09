@@ -1,7 +1,10 @@
 # 💻 Yan Miguel Constantino
 ## `Data Analyst` ##
 
-Sou um estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e Data Analyst . Busco minha primeira oportunidade de estágio para aplicar e expandir meus conhecimentos em HTML, CSS e JavaScript, Excel , SQL além de aprofundar meu aprendizado em desenvolvimento Data Scientist , frameworks modernos e tecnologias emergentes. Quero contribuir com soluções inovadoras e aprimorar minha experiência na área de tecnologia. Tenho perfil proativo, gosto de desafios e valorizo o aprendizado contínuo e a colaboração em equipe.
+Sou estudante de Análise e Desenvolvimento de Sistemas e busco oportunidades de estágio nas áreas de Análise de Dados, Business Intelligence e People Analytics.
+No Grupo Alife Nino, atuei no acompanhamento e na análise de indicadores de Recursos Humanos, como turnover, aproveitamento de novas contratações e SLA de vagas. Também participei de projetos de desenvolvimento de dashboards de RH, gestão de vagas por meio do Pipefy e aplicação de Inteligência Artificial Generativa (Claude) na otimização de rotinas e processos da área.
+Anteriormente, na Trift Transportes, desenvolvi dashboards em Excel e realizei o tratamento de bases de dados financeiras, contribuindo para o acompanhamento e a análise de despesas por setor.
+Ferramentas e tecnologias: Power BI, DAX, Power Query, Excel, SQL, Python e Pandas (em desenvolvimento), Git e GitHub.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-986DFF?style=flat-square&logo=Linkedin&logoColor=fff&link=https://www.linkedin.com/in/iuricode/)](https://www.linkedin.com/in/yan-miguel-90180a342/) 
 [![Gmail Badge](https://img.shields.io/badge/-yancnstntn@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=fff&link=mailto:yancnstntn@gmail.com)](mailto:yancnstntn@gmail.com)
